@@ -5,13 +5,13 @@ import { query, where } from "firebase/firestore";
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBUjYApkh1SEoi2dAyd2qH-AR7ryyvPad8",
-    authDomain: "creditcash-discord.firebaseapp.com",
-    projectId: "creditcash-discord",
-    storageBucket: "creditcash-discord.appspot.com",
-    messagingSenderId: "112310392077",
-    appId: "1:112310392077:web:a5d177f6a80879bb828c44",
-    measurementId: "G-7WZYSJHQTW"
+    apiKey: ,
+    authDomain: ,
+    projectId: ,
+    storageBucket: ,
+    messagingSenderId: ,
+    appId: ,
+    measurementId: 
 };
 
 const app = initializeApp(firebaseConfig);
